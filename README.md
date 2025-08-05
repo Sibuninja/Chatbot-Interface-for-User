@@ -2,8 +2,10 @@
 
 A lightweight and responsive front-end interface for interacting with AI chatbots. This project is designed to be modular and easily integratable with backends like OpenAI, Groq API, or custom LLM deployments.
 
-## 🌐 Live Demo
-Coming Soon
+## 💻 Chatbot UI Preview
+
+![Chatbot UI](assets/chatbot-ui.png)
+
 
 ## 🚀 Features
 
